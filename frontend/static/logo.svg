@@ -1,0 +1,19 @@
+<svg width="34" height="32" viewBox="0 0 34 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.0231 4.22573C25.057 1.56609 21.038 0 16.5851 0C7.36175 0 0 6.71916 0 15.958C0 25.1969 7.36175 32 16.5851 32V26.9606C10.8311 26.9606 6.00787 22.3412 6.00787 15.958C6.00787 9.5748 10.8311 5.03937 16.5851 5.03937C19.4824 5.03937 22.1089 6.15621 24.0198 8.06146L28.0231 4.22573Z" fill="url(#paint0_angular)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.7125 10.9539C20.3828 9.81404 18.5812 9.14285 16.5851 9.14285C12.4505 9.14285 9.15039 12.0225 9.15039 15.982C9.15039 19.9415 12.4505 22.8571 16.5851 22.8571V20.6974C14.0057 20.6974 11.8436 18.7177 11.8436 15.982C11.8436 13.2463 14.0057 11.3026 16.5851 11.3026C17.8839 11.3026 19.0613 11.7812 19.9179 12.5978L21.7125 10.9539Z" fill="url(#paint1_angular)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.0111 13.6378C32.6918 11.3469 31.903 9.25223 30.7424 7.42857L25.9845 10.7913C26.5002 11.8247 26.8622 12.97 27.039 14.2038L33.0111 13.6378ZM33.0111 18.2857L27.039 17.7143C26.8622 18.951 26.5002 20.1021 25.9845 21.1429L30.796 24.4315C31.9258 22.6226 32.6964 20.551 33.0111 18.2857ZM20.0165 26.3992C21.2866 25.9673 22.4477 25.2978 23.4479 24.4315L27.1624 28.4581C25.4238 29.8162 23.3871 30.8274 21.1603 31.4143L20.0165 26.3992Z" fill="url(#paint2_angular)"/>
+<defs>
+<radialGradient id="paint0_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16.5851 16) rotate(90) scale(16 16.5851)">
+<stop stop-color="#1985C2"/>
+<stop offset="1" stop-color="#30D9C5"/>
+</radialGradient>
+<radialGradient id="paint1_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16.5851 16) rotate(90) scale(6.85714 7.43471)">
+<stop stop-color="#1985C2"/>
+<stop offset="1" stop-color="#30D9C5"/>
+</radialGradient>
+<radialGradient id="paint2_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16.5851 16) rotate(90) scale(16 16.5851)">
+<stop stop-color="#1985C2"/>
+<stop offset="1" stop-color="#30D9C5"/>
+</radialGradient>
+</defs>
+</svg>
